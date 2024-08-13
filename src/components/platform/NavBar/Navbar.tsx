@@ -10,7 +10,7 @@ export function NavBar() {
 
       <div className="gap-2 items-center  hidden sm:flex">
         <img src="/logo.webp" alt="Logo" className="h-8" />
-        <h1 className="font-bold">Mujeres en STEAM</h1>
+        <h1 className="font-bold">Mujeres en STEM</h1>
       </div>
 
       <p className="text-muted-foreground text-center text-sm font-bold">
